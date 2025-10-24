@@ -36,9 +36,15 @@ We use the **MNE sample dataset**:
 ## **Model Performance**
 - **Accuracy:** ~`your_accuracy_here`
 - Confusion matrix visualizes true vs predicted labels.
+### Confusion Matrix
+[![Confusion Matrix](output/confusion_matrix.png)](output/confusion_matrix.png)
 
 ## **Important Plot**
  **EEG Signal Plot**  
    Example: First channel of first epoch
+   
+### EEG Signal - First Channel
+[![EEG First Channel](output/eeg_first_channel.png)](output/eeg_first_channel.png)
 
-
+### Download All Plots
+[Click here to download all plots](output/outputs%20(3).zip)
